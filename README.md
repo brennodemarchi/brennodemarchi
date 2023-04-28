@@ -1,16 +1,20 @@
 <!-- Header -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xlMUXGWLaqBnnUug7g/giphy.gif" width="300"/>
+  <!-- GIPHY -->
+  <img src="#" width="300"/>
 </div>
 
 <!-- Badges -->
 <div id="badges" align="center">
+  <!-- Linkedin -->
   <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+  <!-- Lattes -->
     <a href="http://lattes.cnpq.br/5599778124078031">
       <img src="https://img.shields.io/badge/CV Lattes-white?style=for-the-badge&logo=lattes.png&logoColor=black" alt="CV Lattes Badge"/>
     </a>
+  <!-- Research Gate -->
    <a href="https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi">
       <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="Research Gate Badge"/>
     </a>
