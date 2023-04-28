@@ -2,7 +2,7 @@
 - I'm a PhD student in Social Anthropology (Santa Catarina Federal Univesity)
 - I've a MS degree in Social Anthropology (Santa Catarina Federal University) 
 - I've a Bachelor and Licenciate Degree in Social Sciences (São Paulo State University)
-- 🌱 I’m currently learning: Excel, Web Design (HTML5, CSS3, JScript) and Data Science with Python
+- 🌱 I’m currently learning: Excel, Web Design (HTML5, CSS3, Javascript) and Data Science with Python
 - 📫 How to reach me: brennodemarchi@gmail.com
 
 <!---
