@@ -18,21 +18,25 @@
    <a href="https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi">
       <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="Research Gate Badge"/>
     </a>
+    <!-- AcademiaEdu -->
     <a href="https://ufsc.academia.edu/BrennoDemarchi">
       <img src="https://img.shields.io/badge/Academia.Edu-white?style=for-the-badge&logo=academia&logoColor=black" alt="Academia.edu Badge"/>
     </a>
+    <!-- Behance -->
     <a href="https://www.behance.net/brennodemarchi">
       <img src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
     </a>
+    <!-- Youtube -->
     <a href="https://www.youtube.com/@brennodemarchi">
       <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/brennodemarchi/">
+      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <!-- Portfolio -->
     <a href="http://brennodemarchi.art.br/projetos/">
       <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Brenno B. Demarchi's Portfolio Badge"/>
-    </a>
-    <!-- Linkedin -->
-    <a href="https://www.instagram.com/brennodemarchi/">
-      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 </div>
 <div align="center" id="aboutme">
