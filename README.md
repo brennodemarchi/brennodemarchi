@@ -44,5 +44,5 @@
   <p> I'm a PhD student in Social Anthropology at <a href="https://ppgas.posgrad.ufsc.br/"> Santa Catarina Federal University </a>, a independent Cultural Producer and someone who is curious to learn about new subjects!</p>
 </div>
 <div id="skills">
-  <p> I’m currently learning about Web Design (HTML5, CSS3, Javascript) and Data Science with Python and Excel </p>
+  <p> I’m currently learning about Frontend Development (HTML5, CSS3, Javascript), Digital Garden (Obsidian, Logseq) and Data Science (Python, Excel, QGis) </p>
 </div>
