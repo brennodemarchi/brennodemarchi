@@ -9,7 +9,7 @@
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/brennodemarchi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+  </a>
   <!-- Lattes -->
     <a href="http://lattes.cnpq.br/5599778124078031">
       <img src="https://img.shields.io/badge/CV Lattes-white?style=for-the-badge&logo=lattes.png&logoColor=black" alt="CV Lattes Badge"/>
@@ -29,6 +29,10 @@
     </a>
     <a href="http://brennodemarchi.art.br/projetos/">
       <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Brenno B. Demarchi's Portfolio Badge"/>
+    </a>
+    <!-- Linkedin -->
+    <a href="https://www.instagram.com/brennodemarchi/">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 </div>
 <div align="center" id="aboutme">
