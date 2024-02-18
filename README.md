@@ -27,7 +27,7 @@
 📊 Data Science (Python, Excel, QGis and Maths)<br/>
 <br/>
 <div align="center">
-### You can reach me
+<h2> You can reach me </h2>
 <br/>
 <a href="https://www.linkedin.com/in/brennodemarchi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
