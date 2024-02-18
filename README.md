@@ -28,6 +28,7 @@
 <br/>
 <div align="center">
 ### You can reach me
+<br/>
 <a href="https://www.linkedin.com/in/brennodemarchi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
