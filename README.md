@@ -5,11 +5,10 @@
  I am a PhD student in Social Anthropology at <a rel="" href="https://ppgas.posgrad.ufsc.br/" target="_blank">Santa Catarina Federal University</a> and I also work on various cultural projects. I'm versatile and eager to learn new things, and I love collaborating on collective projects that have a social impact. I pursue a Bachelor's degree and a Teaching License in Social Sciences from São Paulo State University.
  <br/>
 ### 🔨 Language, Tools and Skills
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="48" height="48" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/html-48.png" alt="html"/></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="48" height="48" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/css-48.png" alt="css"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="48" height="48" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/js-48.png" alt="js"/></a>
-<a href="https://www.figma.com/" target="_blank"></a>
-<a href="https://docs.python.org/3/" target="_blank"><img width="48" height="48" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/py-48.png" alt="py"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="60" height="48" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/html-96.png" alt="html"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="60" height="48" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/css-96.png" alt="css"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="48" height="60" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/js-96.png" alt="js"/></a>
+<a href="https://docs.python.org/3/" target="_blank"><img width="48" height="60" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/py-96.png" alt="py"/></a>
 <br/>
 ### 🎓 Academic Skills
 - 🔎 Ethnographic Research
