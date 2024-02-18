@@ -5,27 +5,30 @@
 
 ### About Me
  I am a PhD student in Social Anthropology at <a rel="" href="https://ppgas.posgrad.ufsc.br/" target="_blank">Santa Catarina Federal University</a> and I also work on various cultural projects. I'm versatile and eager to learn new things, and I love collaborating on collective projects that have a social impact. I pursue a Bachelor's degree and a Teaching License in Social Sciences from São Paulo State University.
+ 
  <br/>
-<br/>
+
 ### 🔨 Language, Tools and Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
 <br/>
-<br/>
+
 ### 🎓 Academic Skills
 - 🔎 Ethnographic Research
 - 📃 Writting 
 - 🎤 Public Speaking
 - 📷 Photgraphy
-<br/>
+- 
 <br/>
 
 ### I'm currently learning
 - 👨‍💻 Frontend Development (HTML5, CSS3, Javascript)
 - 🌱 Digital Garden (Obsidian and its publishing plugins)
 - 📊 Data Science (Python, Excel, QGis and Maths)
+  
 <br/>
-<br/>
+
 <!-- Badges -->
 ## You can reach me
 <!-- Linkedin -->
