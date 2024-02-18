@@ -13,17 +13,26 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
+<br/>
+<br/>
+
 ### 🎓 Academic Skills
 - 🔎 Ethnographic Research
 - 📃 Writting 
 - 🎤 Public Speaking
 - 📷 Photgraphy
 
+<br/>
+<br/>
+
 ### I'm currently learning
 - 👨‍💻 Frontend Development (HTML5, CSS3, Javascript)
 - 🌱 Digital Garden (Obsidian and its publishing plugins)
 - 📊 Data Science (Python, Excel, QGis and Maths)
-raw.githubusercontent.com
+
+<br/>
+<br/>
+
 <!-- Badges -->
 ## You can reach me
 <!-- Linkedin -->
