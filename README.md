@@ -1,6 +1,7 @@
 <head>
 <script src="https://kit.fontawesome.com/4e51a0185c.js" crossorigin="anonymous"></script>
 </head>
+<body>
 <!-- Header -->
 <img align="center" src="#" width="300"/> <!-- GIPHY -->
 ## Greetings, I'm Brenno B. Demarchi! 👋
@@ -59,3 +60,4 @@
 <a href="http://brennodemarchi.art.br/projetos/">
 <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Brenno B. Demarchi's Portfolio Badge"/>
 </a>
+</body>
