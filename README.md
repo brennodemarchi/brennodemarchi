@@ -55,3 +55,7 @@
 <a href="http://brennodemarchi.art.br/projetos/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Brenno B. Demarchi's Portfolio Badge"/>
 </a>
+<!-- GitHub -->
+<a href="https://github.com/brennodemarchi" target="_blank">
+<img src="https://img.shields.io/badge/Github-darkblue?style=for-the-badge" alt="Brenno B. Demarchi's GitHub Badge"/>
+</a>
