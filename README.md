@@ -27,7 +27,7 @@
 📊 Data Science (Python, Excel, QGis and Maths)<br/>
 <br/>
 ### You can reach me
-
+<div align="center">
 <a href="https://www.linkedin.com/in/brennodemarchi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -59,3 +59,4 @@
 <a href="https://github.com/brennodemarchi" target="_blank">
 <img src="https://img.shields.io/badge/Github-darkblue?style=for-the-badge" alt="Brenno B. Demarchi's GitHub Badge"/>
 </a>
+</div>
