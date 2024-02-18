@@ -4,13 +4,13 @@
 ### About Me
  I am a PhD student in Social Anthropology at <a rel="" href="https://ppgas.posgrad.ufsc.br/" target="_blank">Santa Catarina Federal University</a> and I also work on various cultural projects. I'm versatile and eager to learn new things, and I love collaborating on collective projects that have a social impact. I pursue a Bachelor's degree and a Teaching License in Social Sciences from São Paulo State University.
  <br/>
-### Languages
+### 💬 Languages
 - 🇧🇷 = Native
-- 🇺🇸 = C2
-- 🇪🇸 = B2
-- 🇫🇷 = B1
+- 🇺🇸 = Fluent
+- 🇪🇸 = Advanced
+- 🇫🇷 = Intermediate
 <br/>
-### </> Coding Languages
+### 💻 Coding Languages
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="60" height="60" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/html-96.png" alt="html"/></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="60" height="60" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/css-96.png" alt="css"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="60" height="60" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/js-96.png" alt="js"/></a>
@@ -18,9 +18,9 @@
 <br/>
 ### 🎓 Skills
 - 🔎 Ethnographic Research
-- 📃 Writting 
+- 📃 Writing 
 - 🎤 Public Speaking
-- 📷 Photgraphy
+- 📷 Photography
 <br/>
 ### I'm currently learning
 - 👨‍💻 Frontend Development (HTML5, CSS3, Javascript)
@@ -28,7 +28,7 @@
 - 📊 Data Science (Python, Excel, QGis and Maths)
 <br/>
 <!-- Badges -->
-## You can reach me
+### You can reach me
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/brennodemarchi/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
