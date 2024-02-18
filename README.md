@@ -1,4 +1,6 @@
+<head>
 <script src="https://kit.fontawesome.com/4e51a0185c.js" crossorigin="anonymous"></script>
+</head>
 <!-- Header -->
 <img align="center" src="#" width="300"/> <!-- GIPHY -->
 ## Greetings, I'm Brenno B. Demarchi! 👋
