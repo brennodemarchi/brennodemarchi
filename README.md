@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/4e51a0185c.js" crossorigin="anonymous"></script>
 <!-- Header -->
 <img align="center" src="#" width="300"/> <!-- GIPHY -->
 ## Greetings, I'm Brenno B. Demarchi! 👋
@@ -5,7 +6,7 @@
  I am a PhD student in Social Anthropology at <a rel="" href="https://ppgas.posgrad.ufsc.br/" target="_blank">Santa Catarina Federal University</a> and I also work on various cultural projects. I'm versatile and eager to learn new things, and I love collaborating on collective projects that have a social impact. I pursue a Bachelor's degree and a Teaching License in Social Sciences from São Paulo State University.
  <br/>
 ### 🔨 Language, Tools and Skills
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/html.png" alt="html"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><i class="fa-brands fa-html5"></i></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/css.png" alt="css"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/js.png" alt="js"/></a>
 <a href="https://www.figma.com/" target="_blank"></a>
