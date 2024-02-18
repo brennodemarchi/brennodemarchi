@@ -3,7 +3,15 @@
   <!-- GIPHY -->
   <img src="#" width="300"/>
 </div>
-
+<div align="center" id="aboutme">
+  <h1> Hi, I'm Brenno B. Demarchi!</h1>
+  <li><p> I'm a PhD student in Social Anthropology at <a href="https://ppgas.posgrad.ufsc.br/"> Santa Catarina Federal University </a></p></li>
+   <li><p> I'm also a independent Cultural Producer with some projects supported by brazilian culture incentive laws </p></li>
+   <li><p> and someone who is curious to learn about new subjects!</p></li>
+</div>
+<div id="skills">
+  <p> I’m currently learning about Frontend Development (HTML5, CSS3, Javascript), Digital Garden (Obsidian, Logseq) and Data Science (Python, Excel, QGis) </p>
+</div>
 <!-- Badges -->
 <div id="badges" align="center">
   <!-- Linkedin -->
@@ -38,11 +46,4 @@
     <a href="http://brennodemarchi.art.br/projetos/">
       <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Brenno B. Demarchi's Portfolio Badge"/>
     </a>
-</div>
-<div align="center" id="aboutme">
-  <h1> Hi, I'm Brenno B. Demarchi!</h1>
-  <p> I'm a PhD student in Social Anthropology at <a href="https://ppgas.posgrad.ufsc.br/"> Santa Catarina Federal University </a>, a independent Cultural Producer and someone who is curious to learn about new subjects!</p>
-</div>
-<div id="skills">
-  <p> I’m currently learning about Frontend Development (HTML5, CSS3, Javascript), Digital Garden (Obsidian, Logseq) and Data Science (Python, Excel, QGis) </p>
 </div>
