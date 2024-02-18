@@ -5,9 +5,9 @@
 </div>
 <div align="center" id="aboutme">
   <h1> Hi, I'm Brenno B. Demarchi!</h1>
-  <li><p> I'm a PhD student in Social Anthropology at <a href="https://ppgas.posgrad.ufsc.br/"> Santa Catarina Federal University </a></p></li>
-   <li><p> I'm also a independent Cultural Producer with some projects supported by brazilian culture incentive laws </p></li>
-   <li><p> and someone who is curious to learn about new subjects!</p></li>
+  <li>I'm a PhD student in Social Anthropology at <a href="https://ppgas.posgrad.ufsc.br/"> Santa Catarina Federal University</a></li>
+   <li>I'm also a independent Cultural Producer with some projects supported by brazilian culture incentive laws</li>
+   <li>and someone who is curious to learn about new subjects!</li>
 </div>
 <div id="skills">
   <p> I’m currently learning about Frontend Development (HTML5, CSS3, Javascript), Digital Garden (Obsidian, Logseq) and Data Science (Python, Excel, QGis) </p>
