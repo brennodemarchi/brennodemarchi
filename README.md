@@ -5,8 +5,11 @@
  I am a PhD student in Social Anthropology at <a rel="" href="https://ppgas.posgrad.ufsc.br/" target="_blank">Santa Catarina Federal University</a> and I also work on various cultural projects. I'm versatile and eager to learn new things, and I love collaborating on collective projects that have a social impact. I pursue a Bachelor's degree and a Teaching License in Social Sciences from São Paulo State University.
  <br/>
 ### 🔨 Language, Tools and Skills
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/html.png" alt="html"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/css.png" alt="css"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/js.png" alt="js"/></a>
+<a href="https://www.figma.com/" target="_blank"></a>
+<a href="https://docs.python.org/3/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/py.png" alt="py"/></a>
 <br/>
 ### 🎓 Academic Skills
 - 🔎 Ethnographic Research
