@@ -11,10 +11,10 @@
 <a href="https://docs.python.org/3/" target="_blank"><img width="48" height="60" src="https://github.com/brennodemarchi/brennodemarchi/blob/main/assets/py-96.png" alt="py"/></a>
 <br/>
 ### 🎓 Skills
-* 🔎 Ethnographic Research
-* 📃 Writing 
-* 🎤 Public Speaking
-* 📷 Photography
+🔎 Ethnographic Research
+📃 Writing 
+🎤 Public Speaking
+📷 Photography
 <br/>
 ### I'm currently learning
 - 👨‍💻 Frontend Development (HTML5, CSS3, Javascript)
