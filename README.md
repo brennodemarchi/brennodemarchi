@@ -26,8 +26,8 @@
 🌱 Digital Garden (Obsidian and its publishing plugins)<br/>
 📊 Data Science (Python, Excel, QGis and Maths)<br/>
 <br/>
-### You can reach me
 <div align="center">
+### You can reach me
 <a href="https://www.linkedin.com/in/brennodemarchi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
