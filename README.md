@@ -1,7 +1,7 @@
 <img align="center" src="#" width="300"/> <!-- GIPHY -->
 ## Greetings, I'm Brenno B. Demarchi! 👋
 ### About Me
- I am a PhD student in Social Anthropology at <a rel="" href="https://ppgas.posgrad.ufsc.br/" target="_blank">Santa Catarina Federal University</a> and I also work on various cultural projects. I'm versatile and eager to learn new things, and I love collaborating on collective projects that have a social impact. I pursue a Bachelor's degree and a Teaching License in Social Sciences from São Paulo State University.
+ I am a PhD student in Social Anthropology at <a rel="" href="https://ppgas.posgrad.ufsc.br/" target="_blank">Santa Catarina Federal University</a> and I also work on various cultural projects. I'm versatile and eager to learn new things, and I love collaborating on collective projects that have a social impact. I also pursue a Bachelor's degree and a Teaching License in Social Sciences from São Paulo State University.
  <br/>
  ### 💬 Languages
 🇧🇷 = Native<br/>
